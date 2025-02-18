@@ -22,7 +22,7 @@ export default async function Home() {
 
   return (
     <ScrollArea useScrollAreaId>
-      <FloatingHeader scrollTitle="Onur Şuyalçınkaya" />
+      <FloatingHeader scrollTitle="Gamdrag" />
       <div className="content-wrapper">
         <div className="content">
           <PageTitle title="Home" className="lg:hidden" />

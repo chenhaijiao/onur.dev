@@ -1,5 +1,5 @@
 export const sharedMetadata = {
-  title: 'Onur Şuyalçınkaya',
+  title: 'Gamdrag',
   description: 'Software Engineer, DJ, writer, and minimalist, based in Amsterdam, The Netherlands',
   url: 'https://onur.dev',
   ogImage: {

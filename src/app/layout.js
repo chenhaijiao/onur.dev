@@ -62,7 +62,7 @@ export const metadata = {
     template: `%s — ${sharedMetadata.title}`
   },
   description: sharedMetadata.description,
-  keywords: ['Onur Şuyalçınkaya', 'Onur Suyalcinkaya', 'onur dev', 'onur.dev'],
+  keywords: ['Gamdrag', 'Onur Suyalcinkaya', 'onur dev', 'onur.dev'],
   openGraph: {
     title: {
       default: sharedMetadata.title,

@@ -2,7 +2,7 @@
   "name": "onur.dev",
   "description": "My personal website.",
   "author": {
-    "name": "Onur Şuyalçınkaya",
+    "name": "Gamdrag",
     "url": "https://onur.dev"
   },
   "scripts": {
@@ -15,8 +15,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix --ext .js,.jsx ."
   },
-  "engines": {
-    "node": "18.x"
+  "volta": {
+    "node": "18.18.0"
   },
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^15.18.0",
